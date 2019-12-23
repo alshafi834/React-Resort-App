@@ -418,6 +418,17 @@ h6 {
   grid-column-gap: 2rem;
   grid-row-gap: 1rem;
 }
+.footer {
+  background: rgb(22, 22, 22);
+  padding: 15px 0;
+}
+.footer p {
+  color: white;
+  font-weight: normal;
+  padding-left: 25px;
+  text-align: center;
+  font-size: 16px;
+}
 @media screen and (min-width: 992px) {
   .single-room-images,
   .single-room-info,
