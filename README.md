@@ -1,3 +1,5 @@
+Check this project simply live in netlify: https://react-resort-room-showcasing.netlify.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
